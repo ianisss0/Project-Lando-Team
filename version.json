@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.0",
-  "download_url": "https://github.com/ianisss0/Project-Lando-Team/releases/download/v1.1.0/f1_2010_2026_v1.1.0.zip",
-  "changelog": "- Updated team performance and engine data for 2026\n- Updated all team statistics and historical records\n- Updated driver statistics after the 2026 Bahrain Grand Prix in Malaysia\n- Updated team principals\n- Updated circuit lap records to the latest applicable records\n- Replaced the sting.bik intro with the 2026 F1 opening intro\n- Replaced the attract.bik intro with our PL Desktop intro\n- Various database adjustments for the 2026 season",
+  "latest_version": "1.1.1",
+  "download_url": "https://github.com/ianisss0/Project-Lando-Team/releases/download/v1.1.1/f1_2010_2026_v1.1.1.zip",
+  "changelog": "- Updated all teams and all drivers statistics after the 2026 Singapore Grand Prix\n- Miscellaneous text changes\n- The Cadillac and Racing Bulls logos are now bigger and more visible\n- Fixed the 2010 team logos showing up after a race instead of the 2026 team logos (on the Constructors screen)",
   "client_version": "1.0",
   "client_url": "https://github.com/ianisss0/Project-Lando-Team/releases/tag/v1.0"
 }
