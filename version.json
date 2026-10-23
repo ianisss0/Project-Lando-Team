@@ -1,7 +1,7 @@
 {
   "latest_version": "1.1.1",
   "download_url": "https://github.com/ianisss0/Project-Lando-Team/releases/download/v1.1.1/f1_2010_2026_v1.1.1.zip",
-  "changelog": "- Updated all teams and all drivers statistics after the 2026 Singapore Grand Prix\n- Miscellaneous text changes\n- The Cadillac and Racing Bulls logos are now bigger and more visible\n- Fixed the 2010 team logos showing up after a race instead of the 2026 team logos (on the Constructors screen)",
+  "changelog": "- Updated all teams and all drivers statistics after the 2026 Singapore Grand Prix\n- Updated icons\n- Miscellaneous text changes\n- The Cadillac and Racing Bulls logos are now bigger and more visible\n- Fixed the 2010 team logos showing up after a race instead of the 2026 team logos (on the Constructors screen)",
   "client_version": "1.0",
   "client_url": "https://github.com/ianisss0/Project-Lando-Team/releases/tag/v1.0"
 }
